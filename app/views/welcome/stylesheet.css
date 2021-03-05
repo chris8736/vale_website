@@ -1,0 +1,13 @@
+.download-text {
+  border-radius: 5px;
+  border-color: white;
+  color: white;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  filter: drop-shadow(0 6px 6px white);
+}
+
+html {
+  background-color: black;
+}
